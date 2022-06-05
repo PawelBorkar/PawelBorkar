@@ -1,6 +1,5 @@
 <!-- Your title -->
-## Hi <img width="10%" height="10%" align="left" alt="Github" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/wave.gif" />
- I'm Pawel Borkar, a passionate self taught Developer. 
+## Hi <img width="10%" height="10%" align="left" alt="Github" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/wave.gif" /> I'm Pawel Borkar, a passionate self taught Developer. 
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
