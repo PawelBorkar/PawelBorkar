@@ -1,6 +1,6 @@
 <!-- Your title -->
 ## Hi, I'm Pawel Borkar, a passionate self taught Developer.
-<img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/wave.gif" />
+<img width="10%" height="10%" align="right" alt="Github" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/wave.gif" />
 
 
 <!-- Your badges
