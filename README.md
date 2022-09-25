@@ -18,6 +18,6 @@ You can use the website to generate badges: https://shields.io/
 <!-- **Talking about Personal Stuffs:** -->
 
 <!-- Any image aligned to the right. Beware the width -->
-<!-- ![Pawel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawelborkar&theme=radical&include_all_commits=true&show_icons=true&count_private=true)
--->
+ ![Pawel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawelborkar&theme=radical&include_all_commits=true&show_icons=true&count_private=true)
+
 <!-- <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
